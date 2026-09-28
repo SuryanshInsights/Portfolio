@@ -255,15 +255,13 @@ delivery, price, city and payment information.
 
 ---
 
-# 💻 Most Used Languages
+<h2 align="center">💻 Most Used Languages</h2>
 
 <p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryansh-Kushwaha&layout=compact&theme=tokyonight&hide_border=true"
-  width="45%"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryanshInsights&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
