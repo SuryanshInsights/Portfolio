@@ -132,7 +132,7 @@ profit, quantity and delivery performance.
 
 <p align="center">
   <img
-    src="image/super store"
+    src=".GitHub/super-store"
     alt="Super Store Sales Dashboard"
     width="100%"
   />
