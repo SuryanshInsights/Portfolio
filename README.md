@@ -132,7 +132,7 @@ profit, quantity and delivery performance.
 
 <p align="center">
   <img
-    src=".GitHub/super-store"
+    src="/super-store.png"
     alt="Super Store Sales Dashboard"
     width="100%"
   />
@@ -166,7 +166,7 @@ revenue, distance and customer/driver performance.
 
 <p align="center">
   <img
-    src="./assets/uber-dashboard.png"
+    src="./uber.png"
     alt="Uber Data Analysis Dashboard"
     width="100%"
   />
