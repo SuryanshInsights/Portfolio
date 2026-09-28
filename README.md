@@ -259,7 +259,11 @@ delivery, price, city and payment information.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryanshInsights&layout=compact&theme=tokyonight&hide_border=true"
+    src="./Python.jpg"
+    alt="Most Used Languages"
+  />
+   <img
+    src="./SQl.jpg"
     alt="Most Used Languages"
   />
 </p>
