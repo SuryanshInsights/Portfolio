@@ -237,19 +237,21 @@ delivery, price, city and payment information.
 
 ---
 
-# 📈 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Suryansh-Kushwaha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  width="48%"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SuryanshInsights&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    width="48%"
+    alt="GitHub Analytics"
+  />
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh-Kushwaha&theme=tokyonight&hide_border=true"
-  width="48%"
-/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SuryanshInsights&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="GitHub Streak"
+  />
 
 </p>
 
